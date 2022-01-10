@@ -1,4 +1,4 @@
-# Marking_Papers-Projects-
+# Marking_Papers-Project-
 A simple program that uses MySQL and python that was inspired by university assignments that TA's mark. 
 
 There are 4 tasks:
